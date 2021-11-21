@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ronniejoseph.xyz/sitemap.xml

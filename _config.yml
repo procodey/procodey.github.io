@@ -1,0 +1,19 @@
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+gems:
+  - jekyll-sitemap
+permalink: blogs/:title/
+title: Ronnie Joseph
+email: ronniejoseph.work@gmail.com
+description: Personal site of Ronnie Joseph; Cyber Security Researcher acknowledged by world-wide companies
+keywords: ronnie, hacking, cyber security, ethical hacker, karunya university, google hall of fame, kerala, computer science engineer, developer, geek, programmer, techie, technologist
+baseurl: ""
+url: http://ronniejoseph.xyz
+name: Ronnie Joseph
+author:
+  name: Ronnie Joseph
+  email: ronniejoseph.work@gmail.com
